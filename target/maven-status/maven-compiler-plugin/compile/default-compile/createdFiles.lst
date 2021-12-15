@@ -1,0 +1,4 @@
+com\rodri\cacproyectojava\JAXRSConfiguration.class
+com\rodri\cacproyectojava\resources\JavaEE8Resource.class
+com\rodri\cacproyectojava\util\CheckUser.class
+com\rodri\cacproyectojava\persistence\BDConnection.class
